@@ -1,0 +1,24 @@
+{
+  "name": "webpack2-practice",
+  "version": "1.0.0",
+  "description": "Udemy【はむ式】モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masato1983/webpack2-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masato1983/webpack2-practice/issues"
+  },
+  "homepage": "https://github.com/masato1983/webpack2-practice#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
