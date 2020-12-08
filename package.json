@@ -4,6 +4,7 @@
   "description": "Udemy【はむ式】モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --open 'Google Chrome'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +20,8 @@
   "devDependencies": {
     "live-server": "^1.2.1",
     "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1"
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "lodash": "^4.17.20"
